@@ -9,7 +9,10 @@ ehthumbs.db
 Thumbs.db
 
 Main/OrganizedDataToxic/*
+Main/Logs/*
 .vscode/*
 *.ipynb_checkpoints/*
 *.keras
 *.h5
+
+Main/AreYouMad/*
